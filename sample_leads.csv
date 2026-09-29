@@ -1,0 +1,11 @@
+name,city,industry,year_founded,employees,est_revenue,review_count,rating,website,owner_operated,locations
+Greenfield HVAC & Plumbing,Columbus OH,HVAC,1996,42,$9.2M,187,4.7,http://greenfieldhvac.com,yes,1
+Greenfield HVAC and Plumbing,Columbus OH,HVAC,1996,42,$9.2M,187,4.7,http://greenfieldhvac.com,yes,1
+Summit Roofing Co,Denver CO,Roofing,2004,28,$6.1M,96,4.5,,yes,2
+BrightPath Dental Group,Austin TX,Dental,2015,55,$14M,410,4.9,https://brightpathdental.com,no,9
+Lakeshore Landscaping,Chicago IL,Landscaping,1989,35,$4.4M,64,4.3,http://lakeshorelandscape.net,yes,1
+Peak Fitness Studio,Boise ID,Fitness,2021,8,$0.9M,22,4.6,https://peakfit.io,yes,1
+Ironclad Electrical,Phoenix AZ,Electrical,2001,61,$18.5M,143,4.4,http://ironcladelectric.com,yes,3
+Metro Auto Care,Atlanta GA,Auto repair,1992,19,$3.1M,12,3.6,,yes,1
+CloudNine Marketing,Miami FL,Marketing,2019,14,$2.2M,9,4.8,https://cloudnine.co,no,1
+Heritage Pest Control,Nashville TN,Pest control,1998,47,$11.8M,231,4.6,http://heritagepest.com,yes,2
